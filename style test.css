@@ -1,0 +1,75 @@
+h1{
+    font-family:'Roboto';
+    color:brown;
+    font-size: 50px;
+    background-color: chocolate;
+}
+
+.headline {
+    font-family: 'Roboto';
+    color:brown;
+}
+
+.Mooli{
+    font-family: 'Mooli';
+    color:#3D0C11;   
+}
+
+.isi{
+    font-family: 'IBM Plex sans';
+    
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+
+.square{
+    background-color: darkgray;
+    width: 300px;
+    border-radius: 10px;
+    padding: 30px;
+    text-align: center;
+    display: inline-block;
+    margin: 20px;
+}
+
+.frame{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+
+.tombol{
+    width: 100%;
+    height: 20px;
+    background-color: cornflowerblue;
+    outline: none;
+    border: none;
+    box-shadow: 3px 2px 2px #3a3a3a;
+    color: brown;
+    
+}
+
+.tombol:active{
+    background-color: aqua
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
